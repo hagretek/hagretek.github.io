@@ -1,3 +1,3 @@
 # henlö there.
 
-I'm **Hag**. welcome to my [personal website](https://www.google.com).
+I'm **Hag**. welcome to my [personal website](hagretek.github.io).
