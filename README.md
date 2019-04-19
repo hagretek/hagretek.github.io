@@ -6,5 +6,5 @@ if you are reading this, then congratulations, you are wasting your time. I'm no
 
 ---
 
-**but in case you still wanna read this, here is the content you can see on my website:**
+**but in case you haven't changed your mind and want to continue, here is the content you can see on my website:**
 - nothing. yet.
