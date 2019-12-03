@@ -4,7 +4,7 @@
 } /* futura condensed */
 @font-face {
   font-family: ubuntu;
-  scr: url('misc/Ubuntu-C.ttf');
+  src: url('misc/Ubuntu-C.ttf');
 }/* ubuntu condensed */
 
 body {
