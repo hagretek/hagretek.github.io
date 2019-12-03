@@ -1,25 +1,67 @@
-/* futura condensed */
-@font-face {
+@font-face { /* futura condensed */
   font-family: futura;
   font-style: normal;
   font-weight: normal;
   src: local('Futura Condensed PT Medium'), url('misc/futura-condensed-pt-medium-589e44ed1e3a5.woff') format('woff');
   /* credit goes to cufonfonts.com */
 }
-/* ubuntu condensed */
-@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed&display=swap'); /* ubuntu condensed */
+
+body {
+  font-family: futura;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
 
 #header {
-  font-family: futura;
   font-size: 24px;
+  position: sticky;
+  top: 0;
+  background-color: #343535;
+  height: 60px;
+  line-height: 60px;
+  margin-bottom: 24px;
+}
+#header a, #header a:visited {
+  color: white;
+}
+#header a:hover{
+  color: #A5A5A5;
+  text-decoration: none;
+}
+#topnav li {
+  display: inline;
+  padding-left: 10px;
+}
+#topnav {
+  display: block;
+  float: right;
+  margin-top: 0;
+}
+#toptitle {
+  margin-left: 30px;
+}
+#side {
+  margin-right: 30px;
+}
+
+#page {
+  max-width: 1200px;
+  margin: 12px auto;
+  padding: 24px;
+  padding-top: 0;
 }
 
 #content {
-  font-family: futura;
   font-size: 20px;
 }
 
 #footer {
   font-family: 'Ubuntu Condensed';
-  font-size: 14px;
+  font-size: 16px;
 }
