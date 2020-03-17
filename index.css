@@ -46,6 +46,11 @@ a:hover {
 	color: #585858;
 }
 
+.bigfile {
+	color: #ff0000;
+	font-size: 90%;
+}
+
 .source {
 	color: #000000;
 }
