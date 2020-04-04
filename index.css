@@ -38,6 +38,10 @@ a:hover {
 	text-decoration: underline;
 }
 
+#smol {
+	font-size: 75%;
+}
+
 #h3list {
 	font-weight: normal;
 }
