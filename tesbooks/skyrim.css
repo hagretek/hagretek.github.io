@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+/*
+| Splatoon ink colors:
+| "pink" = #fe447d
+| "orange" = #f78f2e
+| "yellow orange" = #fedc0c
+| "lime green" = #d1f20a
+| "emerald green" = #5cd05b
+| "teal" = #03c1cd
+| "blue" = #0e10e6
+| "violet" = #9208e7
+| "red orange" = #f84c00
+| "yellow" = #f3f354
+| "mint" = #bff1e5
+| "green" = #3bc335
+| "sea green" = #7af5ca
+| "light blue" = #448bff
+| "dark blue" = #101ab3
+| "fuchsia" = #d645c8
+| "neon green" = #0afe15
+| "cyan" = #0acdfe
+| "neon orange" = #ff9600
+| "dark fuchsia" = #b21ca1
+*/
+
+body {
+	font-family: Ubuntu, sans-serif;
+	margin: 20px;  
+}
+
+a {
+	color: #f84c00;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#smol {
+	font-size: 75%;
+}
+
+#h3list {
+	font-weight: normal;
+}
+
+.date {
+	color: #585858;
+}
+
+.bigfile {
+	color: #ff0000;
+	font-size: 90%;
+}
+
+.source {
+	color: #000000;
+}
+
+.info {
+	color: #000000;
+	font-style: italic;
+}
+
+.id {
+	color: #585858;
+	font-size: 70%;
+}
+
+#footer {
+	font-size: 80%;
+}
+
+#footer a {
+	color: #000000;
+	text-decoration: underline;
+}
