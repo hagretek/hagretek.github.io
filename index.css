@@ -1,29 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
 
-/*
-| Splatoon ink colors:
-| "pink" = #fe447d
-| "orange" = #f78f2e
-| "yellow orange" = #fedc0c
-| "lime green" = #d1f20a
-| "emerald green" = #5cd05b
-| "teal" = #03c1cd
-| "blue" = #0e10e6
-| "violet" = #9208e7
-| "red orange" = #f84c00
-| "yellow" = #f3f354
-| "mint" = #bff1e5
-| "green" = #3bc335
-| "sea green" = #7af5ca
-| "light blue" = #448bff
-| "dark blue" = #101ab3
-| "fuchsia" = #d645c8
-| "neon green" = #0afe15
-| "cyan" = #0acdfe
-| "neon orange" = #ff9600
-| "dark fuchsia" = #b21ca1
-*/
-
 body {
 	font-family: Ubuntu, sans-serif;
 	margin: 20px;  
@@ -76,4 +52,9 @@ a:hover {
 #footer a {
 	color: #000000;
 	text-decoration: underline;
+}
+
+#docid {
+	font-size: 70%;
+	color: #585858;
 }
