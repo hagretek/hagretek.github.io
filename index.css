@@ -54,7 +54,12 @@ a:hover {
 	text-decoration: underline;
 }
 
-#docid {
-	font-size: 70%;
+/* no touch */
+#pagename {
 	color: #585858;
+	font-size: 70%;
+	display: block;
+	width: 100%;
+	text-align: center;
 }
+/* seriously, don't touch it. please i beg of you */
