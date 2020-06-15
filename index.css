@@ -63,3 +63,22 @@ a:hover {
 	text-align: center;
 }
 /* seriously, don't touch it. please i beg of you */
+
+/* /tesbooks/skyrim.html */
+
+table {
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 5px;
+	border-bottom: 1px solid #585858;
+ }
+
+ tr:hover {
+ 	background-color: #dddddd;
+ }
+
+ .bottom {
+ 	border-bottom: 0px solid #000000;
+ }
