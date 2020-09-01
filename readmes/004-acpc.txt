@@ -1,0 +1,11 @@
+Album: "Animal Crossing: Pocket Camp Original Soundtrack"
+Artist: "Nintendo"
+No. of songs: "26"
+
+Game: "Animal Crossing: Pocket Camp"
+Year: "2017"
+Platform: "Android, iOS"
+
+Source: "https://www.youtube.com/playlist?list=PLgKQekWF68FoxmvbupQH_5o-7DiYJuiOo"
+Full size (uncompressed): "68.8 MB (megabytes)"
+Download size (compressed): "68.5 MB (megabytes)"
