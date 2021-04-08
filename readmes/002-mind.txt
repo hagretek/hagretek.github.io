@@ -1,5 +1,5 @@
 Album: "Mindustry Original Soundtrack"
-Artist: "Anuke"
+Artist: "Anuken"
 
 Game: "Mindustry"
 Platform: "Windows, Mac, Linux, Android, iOS"
@@ -7,6 +7,3 @@ Platform: "Windows, Mac, Linux, Android, iOS"
 Source: "https://www.youtube.com/playlist?list=PLNY8M9xlF4gc95-nS_Mrz_TbC-VhIWHvJ"
 Full size (uncompressed): "34.7 MB (megabytes)"
 Download size (compressed): "34.5 MB (megabytes)"
-
-Cover image used by default: "Cover.png"
-Number of variations (incl. default): "1"
