@@ -9,6 +9,12 @@ body {
 	background: #232323;
 }
 
+@media only screen and (max-width: 800px) {
+  body {
+    margin: 20px 10x;
+  }
+}
+
 a {
 	color: #FFE500;
 	/*color: #f84c00;*/
