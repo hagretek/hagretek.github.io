@@ -1,12 +1,17 @@
+/* General */
+
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
 
 body {
 	font-family: Ubuntu, sans-serif;
-	margin: 20px;  
+	margin: 20px 40px;
+	color: #eeeeee;
+	background: #232323;
 }
 
 a {
-	color: #f84c00;
+	color: #FFE500;
+	/*color: #f84c00;*/
 	text-decoration: none;
 }
 
@@ -14,35 +19,8 @@ a:hover {
 	text-decoration: underline;
 }
 
-#smol {
-	font-size: 75%;
-}
-
-#h3list {
-	font-weight: normal;
-}
-
-.date {
-	color: #585858;
-}
-
-.bigfile {
-	color: #ff0000;
-	font-size: 90%;
-}
-
-.source {
-	color: #000000;
-}
-
-.info {
-	color: #000000;
-	font-style: italic;
-}
-
-.id {
-	color: #585858;
-	font-size: 70%;
+hr {
+	margin: 30px 0;
 }
 
 #footer {
@@ -50,24 +28,56 @@ a:hover {
 }
 
 #footer a {
-	color: #000000;
+	color: #cdcdcd;
 	text-decoration: underline;
 }
 
-/* no touch */
 #pagename {
-	color: #585858;
+	color: #ababab;
 	font-size: 70%;
 	display: block;
 	width: 100%;
 	text-align: center;
 }
-/* seriously, don't touch it. please i beg of you */
 
 
 
-/* /tesbooks/skyrim.html */
+/* Homepage (/index.html) */
+#linklist {
+	padding-left: 2%;
+}
 
+
+
+/* OSTs (/osts/osts.html) */
+
+#smol {
+	font-size: 75%;
+}
+
+.date {
+	color: #cdcdcd;
+}
+
+.source {
+	color: #eeeeee;
+}
+
+.info {
+	color: #eeeeee;
+	font-style: italic;
+}
+
+.id {
+	color: #cdcdcd;
+	font-size: 70%;
+}
+
+
+
+/* No (no) */
+
+/*
 table {
 	border-collapse: collapse;
 }
@@ -84,3 +94,4 @@ th, td {
  .bottom {
  	border-bottom: 0px solid #000000;
  }
+ */
